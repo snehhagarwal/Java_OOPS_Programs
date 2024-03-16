@@ -25,5 +25,4 @@ public class SpeedConverter {
             System.out.println("Invalid Value");
         }else
         System.out.println( kilometersperhour + " km/h = " + toMilesPerHour(kilometersperhour) + " mi/h");
-    }
-}
+    }}
