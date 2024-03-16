@@ -18,8 +18,7 @@ public class SpeedConverter {
         }else {
             double value=kilometersperhour/1.609;
             return Math.round(value);
-        }
-    }
+        }}
     public static void printConversion(double kilometersperhour){
         if (kilometersperhour<0){
             System.out.println("Invalid Value");
